@@ -1,0 +1,13 @@
+name: ml_workshop
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
+  - jupyter
+  - tqdm
+  - tensorflow
+  - matplotlib
+  - seaborn
+  - networkx
